@@ -1,2 +1,2 @@
-# Example Page
-This is an example page.
+# Updated Example
+This page has been updated.
